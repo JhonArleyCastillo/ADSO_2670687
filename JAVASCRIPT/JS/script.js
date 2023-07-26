@@ -37,7 +37,7 @@ booleano=true;
 //let edad3=25;
 
 let nom=prompt("Escriba su nombre")
-let ape=prompt("Escriba su apeellido")
+let ape=prompt("Escriba su apellido")
 let dir=prompt("Escriba su direccion")
 let eda=prompt("Escriba su edad")
 let pes=prompt("Escriba su peso")
