@@ -103,4 +103,14 @@ presupuestal.
 //alert ("El dinero para el area de Traumatologia es " + PTT);
 //alert ("El dinero para el area de Pediatria es " + PPP);
 
+/*let inversion1  = prompt("Ingrese su inversion a la piscina");
+let inversion2 = prompt("Ingrese su inversion a la piscina");
+let inversion3 = prompt("Ingrese su inversion a la piscina");
+let tpiscina = parseInt(inversion1+inversion2+inversion3);
+let Inversion3 = (inversion3/tpiscina)*100;
+let Inversion1 = (inversion1/tpiscina)*100;
+let Inversion2 = (inversion2/tpiscina)*100;
 
+alert ("su inversion es " + Inversion1);
+alert ("su inversion es " + Inversion2);
+alert ("su inversion es " + Inversion3);*/
