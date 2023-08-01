@@ -103,6 +103,11 @@ presupuestal.
 //alert ("El dinero para el area de Traumatologia es " + PTT);
 //alert ("El dinero para el area de Pediatria es " + PPP);
 
+
+/*Ejercicio 11 Tres personas deciden invertir su dinero para fundar una empresa. Cada una de
+ellas invierte una cantidad distinta. Obtener el porcentaje que cada quien invierte
+con respecto a la cantidad total invertida.*/
+
 /*let inversion1  = prompt("Ingrese su inversion a la piscina");
 let inversion2 = prompt("Ingrese su inversion a la piscina");
 let inversion3 = prompt("Ingrese su inversion a la piscina");
