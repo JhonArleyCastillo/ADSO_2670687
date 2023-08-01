@@ -74,10 +74,33 @@ minuto. Determine el monto a pagar por una carrera. */
 /* Ejercicio 9 Realizara un programa en el cual se van a leer tres números y determinar el
 cuadrado de cada uno de ellos.*/
 
-let numero0= prompt ("Introduzca su numero");
-let numero1= prompt ("Introduzca su numero");
-let numero2= prompt ("Introduzca su numero");
-let alcuadro= parseInt( numero1*numero1 );
-let alcuadro1= parseInt( numero2*numero2 );
-let alcuadro2= parseInt( numero0*numero0 );
-alert ("El valor al vuadrado es " + alcuadro  +alcuadro1 +alcuadro2);
+//let numero0= prompt ("Introduzca su numero");
+//let numero1= prompt ("Introduzca su numero");
+//let numero2= prompt ("Introduzca su numero");
+//let alcuadro= parseInt( numero1*numero1 );
+//let alcuadro1= parseInt( numero2*numero2 );
+//let alcuadro2= parseInt( numero0*numero0 );
+//alert ("El valor al vuadrado es " + alcuadro  +alcuadro1 +alcuadro2);
+
+/*Ejercicio 10 En un hospital existen tres áreas: Ginecología, Pediatría, Traumatología. El
+presupuesto anual del hospital se reparte conforme a la sig. tabla:
+Area                  Porcentaje de presupuesto
+Ginecologia           40%
+Traumatologia         30%
+Pediatria             30%
+Obtener la cantidad de dinero que recibirá cada área, para cualquier monto
+presupuestal.
+*/
+
+//let presupuestoanual = prompt ("Introdusca el presupuesto anual ");
+//const pGine= 40/100;
+//const pTraum = 30/100;
+//const pPedi = 30/100;
+//let PTG = parseInt(presupuestoanual*pGine);
+//let PTT = parseInt(presupuestoanual*pTraum);
+//let PPP = parseInt(presupuestoanual*pPedi);
+//alert ("El dinero para las areas de Ginecologia es " + PTG);
+//alert ("El dinero para el area de Traumatologia es " + PTT);
+//alert ("El dinero para el area de Pediatria es " + PPP);
+
+
