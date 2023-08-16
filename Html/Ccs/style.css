@@ -1,9 +1,8 @@
 *{
-    background-color: #a9a9a9; text-align:justify; }
-#t{font-weight: 500;font-family: 'Work Sans', sans-serif;font-size: medium;
-color:red;
-border-bottom: #0000ff 20px solid; 
-padding: 20px;width: 20px;}
+    background-color: #a9a9a9; text-align:center; }
+#t{font-weight: 500;font-family: 'Work Sans', sans-serif;font-size: medium; text-align: center;
+border-bottom:color#0000ff 2px solid; 
+padding: 2px;}
 .p1s{font-family: 'Work Sans', sans-serif;text-decoration:line-through;
     text-align: center; color:#0000ff;
 }      

@@ -1,0 +1,24 @@
+.main-nav{
+background-color: #39a900;
+margin: 0; 
+list-style: none;
+padding-left: 0;
+text-align:center;}
+.main-nav-item{
+    display: inline-block;
+}
+.main-nav-item a{
+    color:#ffff;
+    text-decoration:none;
+    padding: 20px;
+    display: block;
+    border-right: 1px solid #ffff;
+}
+.main-nav-item a:hover{
+    background-color: #ffff;
+    color: #39a900;
+}
+.main-nav-item a:active{
+    background-color: #ffff;
+    color: #a90008;
+}

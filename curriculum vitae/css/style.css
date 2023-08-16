@@ -1,27 +1,21 @@
 *{
     background-color: #f7270c;
+    text-align: center;
+    display: inline-block;
 }
 .t1{
     text-align: center;
-    color: #5f9EA0;
+    padding: 20px;
+    display: block;
+    border-right: 1px solid #5f9EA0;
 }
-
-
-.boton{
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #0ae7ef;
-    color: rgb(20, 133, 231);
-    text-align: center;
-    text-decoration: none;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    cursor: pointer;
+.t1 a:hover{
+    background-color: green;
+    color:#f7270c;
 }
-
-.boton:hover{
-    background-color: #779697;
+.t1 a:active{
+    background-color: green;
+    color: yellow;
 }
 .img1{
         width: 5%;
@@ -33,10 +27,7 @@
         display: block;
         margin: auto;
 }
-.t1{
-    text-align: center;
-    color: #5f9EA0;
-}
+
 *{
     background-color: #f5fcff;
 }
